@@ -7,7 +7,7 @@ An application called Note Taker that can be used to write and save notes. This 
 ![100% Javascript](https://img.shields.io/badge/javascript-100%25-green)`
 
 Project Repository URL: https://github.com/buykajamsran/notetaker
-Heroku app URL: https://git.heroku.com/note-taker-buykajamsran.git
+Heroku app URL: https://shrouded-sands-09568.herokuapp.com/
 
 ## Table of Contents (Optional)
 
@@ -26,6 +26,7 @@ The following resources were used in the development of this project: Javascript
 2. Install Node.js. 
 3. Open the project in a terminal application, type "npm install" and press enter. 
 4. Next install Express. To install, type "npm i express" and press enter.
+5.  Next install Nanoid. To install, type "npm install --save nanoid" and enter.
 
 ## Usage
 
