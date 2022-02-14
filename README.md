@@ -7,6 +7,7 @@ An application called Note Taker that can be used to write and save notes. This 
 ![100% Javascript](https://img.shields.io/badge/javascript-100%25-green)`
 
 Project Repository URL: https://github.com/buykajamsran/notetaker
+Heroku app URL: https://git.heroku.com/note-taker-buykajamsran.git
 
 ## Table of Contents (Optional)
 
