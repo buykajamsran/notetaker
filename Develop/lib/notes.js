@@ -2,7 +2,7 @@ const fs = require("fs");
 
 const path = require("path");
 
-// create function to create new note
+// function to create new note
 function createNewNote(body, notesArray) {
     const note = body;
     notesArray.push(note);
